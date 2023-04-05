@@ -1,0 +1,25 @@
+{
+  "name": "cs-493_project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rest-api.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/rest-api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoboson02/cs-493_project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoboson02/cs-493_project1/issues"
+  },
+  "homepage": "https://github.com/Hoboson02/cs-493_project1#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
